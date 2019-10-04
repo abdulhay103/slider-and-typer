@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'EncodeSansMedium';
+    src: url('fonts/EncodeSansMedium.eot');
+    src: url('fonts/EncodeSansMedium.eot') format('embedded-opentype'),
+         url('fonts/EncodeSansMedium.woff2') format('woff2'),
+         url('fonts/EncodeSansMedium.woff') format('woff'),
+         url('fonts/EncodeSansMedium.ttf') format('truetype'),
+         url('fonts/EncodeSansMedium.svg#EncodeSansMedium') format('svg');
+}
