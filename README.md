@@ -1,2 +1,2 @@
-# Notify.ME
+# Slider Project
 Full responsive Bootstrap Project...
